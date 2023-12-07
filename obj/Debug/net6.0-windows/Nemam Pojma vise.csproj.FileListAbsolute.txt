@@ -1,0 +1,26 @@
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.exe
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.dll.config
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.deps.json
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.runtimeconfig.json
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Nemam Pojma vise.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.csproj.AssemblyReference.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam_Pojma_vise.Form1.resources
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.csproj.GenerateResource.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.AssemblyInfoInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.AssemblyInfo.cs
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.csproj.CoreCompileInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.csproj.CopyComplete
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\refint\Nemam Pojma vise.dll
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\Nemam Pojma vise.genruntimeconfig.cache
+C:\Users\302\Desktop\Osnovi Programiranja\Nemam Pojma vise\obj\Debug\net6.0-windows\ref\Nemam Pojma vise.dll
