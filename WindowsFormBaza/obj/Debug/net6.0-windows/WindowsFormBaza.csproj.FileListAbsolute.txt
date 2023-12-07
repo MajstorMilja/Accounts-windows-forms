@@ -1,0 +1,35 @@
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.exe
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.deps.json
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.runtimeconfig.json
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.csproj.AssemblyReference.cache
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.Form1.resources
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.csproj.GenerateResource.cache
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.AssemblyInfoInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.AssemblyInfo.cs
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.csproj.CoreCompileInputs.cache
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\refint\WindowsFormBaza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.pdb
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.genruntimeconfig.cache
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\ref\WindowsFormBaza.dll
+C:\Users\302\Desktop\Osnovi Programiranja\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.Form2.resources
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.exe
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.deps.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.runtimeconfig.json
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\bin\Debug\net6.0-windows\WindowsFormBaza.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.Form1.resources
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.Form2.resources
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.csproj.GenerateResource.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.AssemblyInfoInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.AssemblyInfo.cs
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.csproj.CoreCompileInputs.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\refint\WindowsFormBaza.dll
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.pdb
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\WindowsFormBaza.genruntimeconfig.cache
+C:\Users\milja\OneDrive\Desktop\programiranje\Sve u jednom folderu\Sve u jednom folderu\WindowsFormBaza\obj\Debug\net6.0-windows\ref\WindowsFormBaza.dll
